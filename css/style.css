@@ -1,5 +1,5 @@
 body{
-    font-family: 'Arial', Verdana, sans-serif;
+    font-family: Arial, Verdana;
     background-color: #000000;
     color: #ffffff;
     margin: 20px 20px 0px 20px;
@@ -45,8 +45,10 @@ div{
     background-color: #FF0000;
     text-align: right;
     margin-left: 50px;
-    border-bottom: 2px;
-    border-left: 5px;
+    /* border-bottom: 2px;
+    border-left: 5px; */
+    border-top: 2px;
+    border-right: 5px;
 }
 
 .blue{
